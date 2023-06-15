@@ -8,7 +8,7 @@ string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!;
 path = Path.Combine(path, @"Data\");
 
 Image<Gray, byte> image = new Image<Gray, byte>(path +@"images.jpeg");
-Matrix<int>? sgbp = StructuralBinaryGradientPatterns.ComputeDescriptor(image);
+Matrix<int>? sgbp = StructuralBinaryGradientPatterns.ComputeStructuralLabel(image);
 
 Image<Gray, Byte> img = sgbp.Mat.ToImage<Gray, Byte>();
 img.Save(path + $"images_label{DateTime.Now.Ticks}.jpeg");

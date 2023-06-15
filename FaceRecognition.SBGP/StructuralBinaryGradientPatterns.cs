@@ -5,7 +5,7 @@ namespace FaceRecognition.SBGP;
 
 public class StructuralBinaryGradientPatterns
 {
-    public static Matrix<int> ComputeDescriptor(Image<Gray, byte> image)
+    public static Matrix<int> ComputeStructuralLabel(Image<Gray, byte> image)
     {
         Matrix<int> sbgp = new Matrix<int>(image.Height, image.Width);
         int neigbors = 8;
