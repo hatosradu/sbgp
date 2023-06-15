@@ -1,0 +1,12 @@
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\bin\Debug\net7.0\FaceRecognition.SBGP.deps.json
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\bin\Debug\net7.0\FaceRecognition.SBGP.dll
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\bin\Debug\net7.0\FaceRecognition.SBGP.pdb
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.csproj.AssemblyReference.cache
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.AssemblyInfoInputs.cache
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.AssemblyInfo.cs
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.csproj.CoreCompileInputs.cache
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.dll
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\refint\FaceRecognition.SBGP.dll
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.pdb
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\ref\FaceRecognition.SBGP.dll
