@@ -6,9 +6,7 @@ D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\FaceRecognition.pdb
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\Emgu.CV.dll
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-arm64\native\cvextern.dll
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-x64\native\cvextern.dll
-D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-x86\native\cvextern.dll
-D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-arm64\native\concrt140.dll
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140.dll
 D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140_1.dll
@@ -45,3 +43,6 @@ D:\Licenta\FaceRecognition\FaceRecognition\obj\Debug\net7.0\refint\FaceRecogniti
 D:\Licenta\FaceRecognition\FaceRecognition\obj\Debug\net7.0\FaceRecognition.pdb
 D:\Licenta\FaceRecognition\FaceRecognition\obj\Debug\net7.0\FaceRecognition.genruntimeconfig.cache
 D:\Licenta\FaceRecognition\FaceRecognition\obj\Debug\net7.0\ref\FaceRecognition.dll
+D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+D:\Licenta\FaceRecognition\FaceRecognition\bin\Debug\net7.0\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+D:\Licenta\FaceRecognition\FaceRecognition\obj\Debug\net7.0\FaceRecognition.sourcelink.json

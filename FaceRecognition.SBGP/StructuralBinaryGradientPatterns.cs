@@ -1,4 +1,5 @@
-﻿using Emgu.CV;
+﻿using System.Drawing;
+using Emgu.CV;
 using Emgu.CV.Structure;
 
 namespace FaceRecognition.SBGP;
@@ -7,7 +8,7 @@ public class StructuralBinaryGradientPatterns
 {
     public static Matrix<int> ComputeStructuralLabel(Image<Gray, byte> image)
     {
-        Matrix<int> sbgp = new Matrix<int>(image.Height, image.Width);
+        Matrix<int> sbgp = new(image.Height, image.Width);
         int neigbors = 8;
         int radius = 1;
 

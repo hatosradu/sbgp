@@ -10,3 +10,4 @@ D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition
 D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\refint\FaceRecognition.SBGP.dll
 D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.pdb
 D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\ref\FaceRecognition.SBGP.dll
+D:\Licenta\FaceRecognition\FaceRecognition.SBGP\obj\Debug\net7.0\FaceRecognition.SBGP.sourcelink.json
